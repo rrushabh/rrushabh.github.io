@@ -12,7 +12,8 @@ profile:
     
 
 news: false  # includes a list of news items
-more_info: true
+more_info: false
+research_interests: true
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -24,8 +25,3 @@ During my undergrad at the **University of Warwick**, I worked with the [Tissue 
 
 If you're an incoming student at NYU, or would like to chat in general about research and beyond, please feel free to reach out to me via email or one of my links below.
 
-##### **research interests**
-* Trustworthy machine learning, involving fairness, safety and explainability in machine learning systems
-* Human-AI interaction
-* Multi-agent systems
-* Algorithmic decision-making
