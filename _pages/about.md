@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a final year Masters in Computer Science student at the Courant Institute of Mathematical Sciences, New York University. I'm also engaged in AI research with the Machine Learning for Good Lab, advised by Professor [Daniel Neill](https://cs.nyu.edu/~neill/), and the Open Networks and Big Data Lab, advised by Professor [Lakshmi Subramanian](https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html).
+I'm a final year Masters in Computer Science student at the <a href="https://cims.nyu.edu/dynamic/"><b>Courant Institute of Mathematical Sciences, New York University</b></a>. I'm also engaged in AI research with the [Machine Learning for Good Lab](https://wp.nyu.edu/ml4good/), advised by Professor <a href="https://cs.nyu.edu/~neill/"><b>Daniel Neill</b></a>, and the [Open Networks and Big Data Lab](https://nyunetworks.github.io/), advised by Professor <a href="https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html"><b>Lakshmi Subramanian</b></a>.
 
-<a href="https://www.openai.com" style="color: green; text-decoration: none;">Visit OpenAI</a>
+If you're an incoming student at NYU, or would like to chat in general about research and beyond, please feel free to reach out to me via email or one of my links below.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
