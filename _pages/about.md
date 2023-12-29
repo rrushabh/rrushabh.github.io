@@ -23,5 +23,5 @@ I'm a final year Masters student in Computer Science at the **Courant Institute 
 
 During my undergrad at the **University of Warwick**, I worked with the [Tissue Image Analytics Centre](https://warwick.ac.uk/fac/cross_fac/tia/) on tools for computational pathology. I was advised by Professor [**Shan Raza**](https://warwick.ac.uk/fac/sci/dcs/people/shan_raza) for my final year dissertation, which explored how different image compression methods affect the performance of deep learning models in histology. In between my time at Warwick and NYU, I worked with **NHS England** on end-to-end machine learning pipelines for population health.
 
-If you're an incoming student at NYU, or would like to chat in general about research and beyond, please feel free to reach out to me via email or one of my links below.
+If you're an incoming student at NYU, or would like to chat in general about research and beyond, please feel free to reach out through one of the links below.
 
