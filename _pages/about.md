@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a final year Masters in Computer Science student at the <a href="https://cims.nyu.edu/dynamic/" style="color: currentColor; font-weight: bold;">Courant Institute of Mathematical Sciences, New York University</a>. I'm also engaged in AI research with the [Machine Learning for Good Lab](https://wp.nyu.edu/ml4good/), advised by Professor <a href="https://cs.nyu.edu/~neill/" style="color: currentColor;">Daniel Neill</a>, and the [Open Networks and Big Data Lab](https://nyunetworks.github.io/){: style="color: green; font-weight: bold; text-decoration: none;}, advised by Professor <a href="https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html" style="color: currentColor;">Lakshmi Subramanian</a>.
+I'm a final year Masters in Computer Science student at the [**Courant Institute of Mathematical Sciences, New York University**](https://cims.nyu.edu/dynamic/). I'm also engaged in AI research with the [Machine Learning for Good Lab](https://wp.nyu.edu/ml4good/), advised by Professor [**Daniel Neill**](https://cs.nyu.edu/~neill/), and the [Open Networks and Big Data Lab](https://nyunetworks.github.io/), advised by Professor [**Lakshmi Subramanian**](https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html).
 
 If you're an incoming student at NYU, or would like to chat in general about research and beyond, please feel free to reach out to me via email or one of my links below.
 
