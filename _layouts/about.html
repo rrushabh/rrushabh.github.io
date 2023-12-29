@@ -43,18 +43,24 @@ layout: default
             {{ content }}
           </div>
 
-          <div class="more-info">
+          <!-- Research Interests -->
+          {% if page.research_interests -%}
+            <h2><span style="color: inherit;">research interests</span></h2>
+            {%- include research_interests.html limit=true %}
+          {%- endif %}
+
+          <!-- More info -->
+          {% if page.more_info -%}
+            <h2><span style="color: inherit;">more info</span></h2>
+            {%- include profile_info.html limit=true %}
+          {%- endif %}
+
+          <!-- <div class="more-info">
             <span style="color: inherit;"><i class="fa-solid fa-location-dot" style="color: #ea4335; text-decoration: none;"></i> New York, NY</span><br>
             <span style="color: inherit;"><i class="fa-solid fa-envelope" style="text-decoration: none;"></i> Email</span><br>
             <a href="https://www.linkedin.com/in/rushabh-sh/" style="color: inherit;"><i class="fa-brands fa-linkedin" style="color: #0077b5; text-decoration: none;"></i> LinkedIn</a><br>
             <a href="https://rrushabh.github.io/" style="color: inherit;"><i class="fa-solid fa-graduation-cap" style="text-decoration: none;"></i> Google Scholar</a><br>
-          </div>
-
-          <!-- Research Interests -->
-          {% if page.research_interests -%}
-            <h2><a href="{{ '/research-interests/' | relative_url }}" style="color: inherit;">research interests</a></h2>
-            {%- include research_interests.html limit=true %}
-          {%- endif %}
+          </div> -->
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
