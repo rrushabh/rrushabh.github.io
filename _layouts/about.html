@@ -34,9 +34,7 @@ layout: default
               %}
             {% endif -%}
             {%- if page.profile.more_info %}
-            <div class="more-info">
-              {{ page.profile.more_info }}
-            </div>
+              {%- include profile_info.html limit=true %}
             {%- endif %}
           </div>
           {%- endif %}
@@ -44,13 +42,6 @@ layout: default
           <div class="clearfix">
             {{ content }}
           </div>
-
-          <!-- Links --><i class=""></i>
-          <span style="color: inherit;"><i class="fa-solid fa-location-dot" style="color: #ea4335; text-decoration: none;"></i> New York, NY</span><br>
-          <span style="color: inherit;"><i class="fa-solid fa-envelope" style="text-decoration: none;"></i> firstname.lastname@nyu.edu</span><br>
-          <a href="https://www.linkedin.com/in/rushabh-sh/" style="color: inherit;"><i class="fa-brands fa-linkedin" style="color: #0077b5; text-decoration: none;"></i> LinkedIn</a><br>
-          <a href="https://rrushabh.github.io/" style="color: inherit;"><i class="fa-solid fa-graduation-cap" style="text-decoration: none;"></i> Google Scholar</a><br>
-
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
