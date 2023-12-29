@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 I'm a final year Masters in Computer Science student at the **Courant Institute of Mathematical Sciences, New York University**. I'm also engaged in research with the [Machine Learning for Good Lab](https://wp.nyu.edu/ml4good/), advised by Professor [**Daniel Neill**](https://cs.nyu.edu/~neill/), and the [Open Networks and Big Data Lab](https://nyunetworks.github.io/), advised by Professor [**Lakshmi Subramanian**](https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html).
 
-## research interests
+### research interests
 * Trustworthy machine learning, involving fairness, safety and explainability in machine learning systems
 * Human-AI interaction
 * Multi-agent systems
